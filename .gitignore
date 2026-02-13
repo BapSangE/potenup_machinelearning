@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# folder
+data
+data_sul
